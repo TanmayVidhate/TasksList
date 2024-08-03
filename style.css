@@ -38,5 +38,25 @@
     border-radius: 5px;
     background: tomato;
     color: white;
-    
+
+}
+
+#task-input{
+    background: #E7E8D8;
+}
+
+.btn-2{
+    padding: 0.7vw;
+    border-radius: 5px;
+    background: rgb(127, 250, 123);
+    color: white;
+    font-weight: 700;
+}
+
+#task-input{
+    width: 30%;
+    padding: 0.7vw;
+    border-radius: 5px;
+    /* border: none; */
+    margin: 1vw;
 }
